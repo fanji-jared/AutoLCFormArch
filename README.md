@@ -20,7 +20,7 @@
 
 ## 技术特性
 
-graph LR A[表格输入] --> B(智能布局引擎) B --> C[vue-form-design JSON] B --> D[Platform tableJson/dbStruct]
+`graph LR A[表格输入] --> B(智能布局引擎) B --> C[vue-form-design JSON] B --> D[Platform tableJson/dbStruct]`
 
 ## 快速开始
 
